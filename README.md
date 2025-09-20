@@ -1,1 +1,1 @@
-# HelloWorld-Git-
+# Gitコマンドで管理する
